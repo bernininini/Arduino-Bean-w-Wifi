@@ -1,5 +1,6 @@
 # ARDUINO BEAN
->> 2025/AUG/13
+>> CREATED: 2025/AUG/13
+>> UPDATED: 2025/AUG/13
 
 Arduino Bean is a arduin mega witha esp32 that is a dev board that has built in wifi
 
